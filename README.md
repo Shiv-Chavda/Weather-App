@@ -48,4 +48,4 @@ MIT
 
 ## Author
 
-[Shiv]
+Shiv
